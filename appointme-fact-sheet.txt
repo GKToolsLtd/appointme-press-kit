@@ -1,0 +1,21 @@
+APPOINT ME - FACT SHEET (October 2026)
+
+What it is: an online booking system for businesses that take appointments
+Website: https://appointme.com
+Tagline: The booking system with one flat price. No commission.
+Price: £50 a month for the first location, £40 a month for each extra location
+Getting started: the first month is £5; while the founding places last, the first 6 months are £5 in total
+Staff and bookings: unlimited, every feature included
+Commission: 0% on every booking
+Payments: deposits, no-show fees, saved cards, tips and prepaid sessions, paid into the business's own Stripe account
+Switching: free switching service; send the old system's exports and we rebuild clients, diary and history
+Languages: 19   Currencies: 17
+Runs on: any web browser, on any device
+Live since: October 2026
+
+Short description:
+Appoint Me is the online booking system for businesses that take appointments, from one site to twenty. A flat price per location with unlimited staff and 0% commission, deposits paid into your own Stripe account, and every feature included.
+
+Company: GK Tools Ltd, registered in England & Wales, company number 16434833, 483 Green Lanes, London N13 4BS
+Founder: Graham Keane
+Press contact: support@appointme.com
